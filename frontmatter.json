@@ -29,11 +29,6 @@
           "type": "image"
         },
         {
-          "title": "Is in draft",
-          "name": "draft",
-          "type": "draft"
-        },
-        {
           "title": "Tags",
           "name": "tags",
           "type": "tags"
@@ -42,6 +37,11 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
         }
       ]
     }
@@ -59,5 +59,39 @@
       "path": "[[workspace]]/_posts"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.content.snippets": {
+    "Tooltip": {
+      "description": "Inserts a text with tooltip",
+      "body": "{{<div>{% include tooltip.html position=\"[[position]]\" tooltip=\"[[tooltip]]\" text=\"[[text]]\" %}</div>}}",
+      "fields": [
+        {
+          "name": "position",
+          "title": "position",
+          "type": "choice",
+          "choices": [
+            "top",
+            "bottom",
+            "left",
+            "right"
+          ],
+          "default": "top"
+        },
+        {
+          "name": "tooltip",
+          "title": "tooltip",
+          "type": "string",
+          "single": true,
+          "default": ""
+        },
+        {
+          "name": "text",
+          "title": "text",
+          "type": "string",
+          "single": true,
+          "default": ""
+        }
+      ]
+    }
+  }
 }

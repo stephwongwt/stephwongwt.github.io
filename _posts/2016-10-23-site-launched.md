@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Steph, Launches Site"
+title: Site Launch!
 date: 2016-10-23
+tags:
+  - update
+categories:
+  - jekyll
+slug: steph-launches-site
+description: Launched a blog on github pages
 ---
 
 Well, I finally got around to putting this old website together. Neat thing about it - it's powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It is actually a lot easier than I thought it was going to be.
