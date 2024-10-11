@@ -7,6 +7,6 @@ title: Home
 permalink: /
 ---
 
-# Hi there, I'm Steph Wong!
+# Hi there, I'm Steph Wong
+
 This is a simple blog to explore using GitHub Pages as a blog/portfolio.
-{% include tooltip.html position="bottom" text="This is a tooltip!" %}
