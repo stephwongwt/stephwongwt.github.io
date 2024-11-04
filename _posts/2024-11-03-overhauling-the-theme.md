@@ -11,7 +11,8 @@ layout: post
 featured: true
 slug: overhauling-theme
 ---
-So after setting up FrontMatter,  I thought I was good to go.
+
+So after setting up FrontMatter, I thought I was good to go.
 
 Nope. I took a look at some other themes and felt that they were closer to the look and feel I prefer, and so I began to overhaul the site.
 

@@ -12,6 +12,7 @@ slug: front-matter-cms-code
 layout: post
 featured: true
 ---
+
 I originally wanted to go through some of my old github repos today to start writing up on them. But I realized I would prefer to have a proper set up in an editor so that I can maintain a proper structure. So after a some searching, I found [FrontMatter](https://frontmatter.codes/)!
 
 It's very straightforward, you install the extension, you initialize the dashboard, following the instructions on the welcome page, and you're good to go!
@@ -21,16 +22,16 @@ I got started with improving my previous posts' front matter metadata, adding de
 First the html for the tooltip:
 
 {% raw %}
+
 ````markdown
 ```html
 <div class="tooltip tooltip-{{ include.position }}">
   {{ include.text }}
-  <div class="tooltip-text">
-    {{ include.tooltip }}
-  </div>
+  <div class="tooltip-text">{{ include.tooltip }}</div>
 </div>
 ```
 ````
+
 {% endraw %}
 
 Then the snippet to be added into `frontmatter.json`:
@@ -77,11 +78,13 @@ Then the snippet to be added into `frontmatter.json`:
 And to then use it, in any page, add the liquid tag.
 
 {% raw %}
+
 ````markdown
 ```liquid
 {% include tooltip.html position="top" tooltip="An example tooltip!" text="Mouse over here!" %}
 ```
 ````
+
 {% endraw %}
 
 The HTML is based off of [W3's CSS Tooltip](https://www.w3schools.com/css/css_tooltip.asp), so it's only a basic tooltip.

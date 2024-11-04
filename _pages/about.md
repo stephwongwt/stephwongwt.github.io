@@ -22,7 +22,7 @@ I like learning new stuff, and exploring new tech and gadgets. So I became a jac
 
 ##### I originally started off as a multimedia developer
 
-Kicking off with [ActionScript](https://en.wikipedia.org/wiki/ActionScript), [Adobe Creative Suite](https://en.wikipedia.org/wiki/Adobe_Creative_Suite), [Autodesk Maya](https://www.autodesk.com/sg/products/maya/overview) and [Blender](https://www.blender.org/). Ah, the ***Flash*** of nostalgia. Together with PHP and HTML+CSS+JS.
+Kicking off with [ActionScript](https://en.wikipedia.org/wiki/ActionScript), [Adobe Creative Suite](https://en.wikipedia.org/wiki/Adobe_Creative_Suite), [Autodesk Maya](https://www.autodesk.com/sg/products/maya/overview) and [Blender](https://www.blender.org/). Ah, the **_Flash_** of nostalgia. Together with PHP and HTML+CSS+JS.
 
 ##### Then I did a [mid-career switch](https://www.digipen.edu.sg/showcase/news/from-web-administrator-to-embedded-software-engineer) and learnt embedded development
 

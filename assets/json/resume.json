@@ -87,8 +87,7 @@
       "highlights": []
     }
   ],
-  "volunteer": [
-  ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Republic Polytechnic",
@@ -99,7 +98,7 @@
       "startDate": "2008-04-01",
       "endDate": "2011-05-01",
       "score": "",
-      "courses": ["Adobe Creative Suite", "ActionScript","3D Modelling and Animation", "HTML+CSS+JavaScript", "PHP", "Python"]
+      "courses": ["Adobe Creative Suite", "ActionScript", "3D Modelling and Animation", "HTML+CSS+JavaScript", "PHP", "Python"]
     },
     {
       "institution": "Singapore University of Social Sciences",
@@ -124,8 +123,7 @@
       "courses": ["RTOS", "Electronic Engineering", "C/C++"]
     }
   ],
-  "awards": [
-  ],
+  "awards": [],
   "certificates": [
     {
       "name": "Completion: Statistics Foundations: The Basics",
@@ -156,10 +154,8 @@
       "icon": "fa-solid fa-hashtag"
     }
   ],
-  "publications": [
-  ],
-  "skills": [
-  ],
+  "publications": [],
+  "skills": [],
   "languages": [
     {
       "language": "English",
@@ -172,10 +168,7 @@
       "icon": ""
     }
   ],
-  "interests": [
-  ],
-  "references": [
-  ],
-  "projects": [
-  ]
+  "interests": [],
+  "references": [],
+  "projects": []
 }
