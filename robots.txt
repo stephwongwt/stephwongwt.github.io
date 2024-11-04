@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stephw.xyz/sitemap.xml
+Sitemap: https://steph.xyz/sitemap.xml
