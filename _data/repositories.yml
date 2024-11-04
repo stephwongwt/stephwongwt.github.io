@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - stephwongwt
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - stephwongwt/stephwongwt.github.io
+  - stephwongwt/nextjs-rabbitmq-consumer-test
+  - stephwongwt/CZ2002-2022-G1-HRPS

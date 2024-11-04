@@ -1,200 +1,181 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Stephanie Wong",
+    "label": "System Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "stephwong@pm.me",
+    "phone": "",
+    "url": "https://steph.xyz",
+    "summary": "A passionate engineer with a keen focus on optimizing processes and continuous improvement. Proactive team player and a fast learner, with a strong ability to adapt and learn independently.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "SG",
+      "region": "Singapore"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "stephwongwt",
+        "url": "https://www.linkedin.com/in/stephwongwt/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "TDRAGONCARDS.COM, Singapore",
+      "position": "Graphic Designer",
+      "url": "",
+      "startDate": "2011-04-01",
+      "endDate": "2011-07-01",
+      "summary": "As a fresh graduate, I joined a wedding card printing company for a short time before I was invited by my former lecturer to take up a tech assistant position with Republic Poly. For the few months that I was here, I worked with Adobe Photoshop and Illustrator to create wedding card designs according to customer's customization requests.",
+      "highlights": []
+    },
+    {
+      "name": "Republic Polytechnic, Singapore",
+      "position": "Technology Research Assistant",
+      "url": "https://www.rp.edu.sg",
+      "startDate": "2011-07-01",
+      "endDate": "2013-07-01",
+      "summary": "This is an alumni-only research position, and I was hired to assist lecturers with their research projects.<br /><br />My main project was a health tracker project, which I assisted in creating prototype hardware using Arduino and multiple sensor modules such as a gyroscope, an accelerometer and a thermometer. I then used Processing to program the board to collect data, together with a Bluetooth module to send out data packets to a paired mobile device which will then transmit data via GPRS to a server which serves a web dashboard so that caregivers can monitor the condition of a patient. After using breadboards to create proof-of-concepts, I soldered them together to create a working prototype which was used in our project exhibitions.<br /><br />Afterwards, I worked on a project for to create a real time logistics web tracker, I helped to develop some of the web interface using HTML, CSS, jQuery and MySQL. During that time we used AJAX and Web Sockets to achieve real time updates on the dashbaord.<br /><br />Another project I was involved in was to create a virtual campus tour created using Unity. I oversaw creating the 3D environment in Unity, importing BIM data and applied matching textures to those models. The application was then paired with an Xbox Kinect camera to allow the user to interact and navigate within the virtual campus",
+      "highlights": []
+    },
+    {
+      "name": "The Garden Slug LLP, Singapore",
+      "position": "Service Agent",
+      "url": "",
+      "startDate": "2013-07-01",
+      "endDate": "2014-08-01",
+      "summary": "During this period, I took a chance to try out a different career path in the service line. I was a bartender and doubled as a runner, providing quality customer service, managing point-of-sale and general stock take of the restaurant. Ultimately this was not for me and so I returned to tech.",
+      "highlights": []
+    },
+    {
+      "name": "CNS Connections Pte Ltd, Singapore",
+      "position": "Multimedia Developer",
+      "url": "https://incinemas.sg/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-10-01",
+      "summary": "I was hired as a Frontend Web Developer, tasked to create web designs based on requirements from clients and to create HTML prototypes for preview before we integrate with Wordpress CMS. After integration, I would help to perform integration checks to ensure the website is bug-free. I also created an inventory management web app using PHP and MySQL.<br /><br />As I would occasionally help the company with digital ads, video editing, flash animations and miscellaneous IT support, my role eventually evolved into a Multimedia developer role.<br /><br />At start of 2016, the company wanted to overhaul their old website, and develop a matching native mobile application to serve their entertainment content. I took up the <a href=\"https://incinemas.sg/article-details.aspx?id=2297\">iOS app</a>, while another colleague took up the Android app, both of us did not have any prior experiences on mobile app development. Together with two experienced UI/UX designers, we brainstormed for UI/UX ideas, creating iterations of designs before we started creating the applications. In the end, this team of 4 took 10 months to research and fully develop the two mobile applications and overhauled the website.",
+      "highlights": []
+    },
+    {
+      "name": "Ministry of Defence, Singapore",
+      "position": "Web Administrator",
+      "url": "https://www.mindef.gov.sg/",
+      "startDate": "2017-05-01",
+      "endDate": "2019-05-01",
+      "summary": "My main responsibility was to manage MINDEF’s websites and its various sub-sites, ensuring that authorized content are timely uploaded. I also help to maintain static webpages for sub sites that have yet to migrate to the CMS, debugging the issues on the frontend (HTML/JavaScript/CSS) or the integration between the frontend and backend (IBM Web Content Manager).<br /><br />Aside from handling MINDEF's website, my secondary role as a technical consultant assess how ready the organization was for migration.<br /><br /> And in 2018, I was tasked to consult in a web development project that lacked velocity. I took the initiative to transition into a product manager role to we managed to get the project back on track and concluded by 2019.",
+      "highlights": []
+    },
+    {
+      "name": "Government Technology Agency, Singapore",
+      "position": "Embedded System Engineer",
+      "url": "https://www.tech.gov.sg",
+      "startDate": "2019-11-01",
+      "endDate": "2022-12-01",
+      "summary": "I started off as an intern after the Professional Conversion Program from DigiPen, during which I worked on creating a proof-of-concept for a WiFi version of the <a href=\"https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/overview.html\">Personal Alert Button</a>, eventually as the project concluded, I was converted to full-time.<br /><br />After the conversion, I started working on a smart garden project and as part of the project, we worked on retrofitting lamp posts with IoT-capable nodes. I was responsible for software architecture & development and worked with hardware engineers to develop custom PCB boards with STM32L and STM32F microcontrollers. We mainly use C/C++ with Mbed OS for quick prototyping. After a year, during the deployment and maintenance phase, the project lead left and so I took over the role and continued to oversee the deployment of those nodes on site.",
+      "highlights": []
+    },
+    {
+      "name": "Government Technology Agency, Singapore",
+      "position": "Systems Engineer",
+      "url": "https://www.tech.gov.sg",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "summary": "After the conclusion of the previous project in GovTech, I transitioned into a Systems engineer, and began working on a project to build an asset management system in the <a href=\"https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html\">Open Digital Platform</a> team. In this project, my role was more focused on frontend and some backend.<br /><br />A teammate and I explored the designs of the application using pen & paper wireframes and ExcaliDraw, basing the design on an existing UI/UX framework created in Figma by other project teams.<br /><br />We used Mantine's components to get started quickly on UI/UX, and developed the rest of the stack with ReactJS, Next.js, NGINX, Express.js, and Redis for caching. As we were already familiar with type-safety, we chose to use TypeScript instead of JavaScript. And after the basics of the app has been set up, we also integrated with Keycloak for OAuth2 authentication and role based access.<br /><br />The application was to be deployed in an Azure managed Kubernetes cluster, so after the infra team has everything set up, I worked on dockerizing our applications and then deploying them to the cluster.<br /><br />The main feature of the application is to allow users to manage their assets remotely, so we implemented real-time updates between the frontend and backend, with the backend connected to other services via AMQP and Protobuf.<br /><br />Aside from the app, I also helped build new features for a Unity based digital twin used for managing assets, and embedded the app in Unity as part of a complete dashboard.<br /><br />During the deployment of the dashboard, I also worked on UAT planning, and managing the test cycles with the end users, as well as working with our VAPT vendor to resolve any vulnerabilities that arise, following OWASP and any other internal security requirements.",
+      "highlights": []
     }
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Republic Polytechnic",
+      "location": "Singapore",
+      "url": "https://www.rp.edu.sg",
+      "area": "Interactive & Digital Media",
+      "studyType": "Diploma",
+      "startDate": "2008-04-01",
+      "endDate": "2011-05-01",
+      "score": "",
+      "courses": ["Adobe Creative Suite", "ActionScript","3D Modelling and Animation", "HTML+CSS+JavaScript", "PHP", "Python"]
+    },
+    {
+      "institution": "Singapore University of Social Sciences",
+      "location": "Singapore",
+      "url": "https://www.suss.edu.sg",
+      "area": "Multimedia Technology and Design",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-04-01",
+      "endDate": "2017-09-01",
+      "score": "",
+      "courses": ["iOS App Development", "Objective-C", "Python", "Blender"]
+    },
+    {
+      "institution": "DigiPen Institute of Technology",
+      "location": "Singapore",
+      "url": "https://www.digipen.edu.sg",
+      "area": "Embedded Software Development",
+      "studyType": "Specialist Diploma",
+      "startDate": "2019-05-01",
+      "endDate": "2020-02-01",
+      "score": "",
+      "courses": ["RTOS", "Electronic Engineering", "C/C++"]
     }
   ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Completion: Statistics Foundations: The Basics",
+      "date": "2021-11-01",
+      "issuer": "LinkedIn Learning",
+      "url": "https://www.linkedin.com/learning/statistics-foundations-1-the-basics",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Completion: Object Oriented Design and Programming",
+      "date": "2022-05-06",
+      "issuer": "National Technological University, Singapore",
+      "url": "https://www.ntu.edu.sg/",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Gold Level Secure Cold Warrior",
+      "date": "2023-01-01",
+      "issuer": "Secure Code Warrior",
+      "url": "https://www.securecodewarrior.com/",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Completion: SEC542: Web App Penetration Testing and Ethical Hacking",
+      "date": "2024-08-31",
+      "issuer": "The SANS Institute",
+      "url": "https://www.sans.org/cyber-security-courses/web-app-penetration-testing-ethical-hacking/",
       "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
   ],
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Mandarin",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
   "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }

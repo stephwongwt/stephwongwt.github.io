@@ -2,24 +2,40 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p style="width:100%;">They/Them</p>
+    <p style="width:100%;">System Engineer</p>
+    <p style="width:100%;">Currently in Singapore</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I like learning new stuff, and exploring new tech and gadgets. So I became a jack of all trades and a master of none.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+##### I originally started off as a multimedia developer
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Kicking off with [ActionScript](https://en.wikipedia.org/wiki/ActionScript), [Adobe Creative Suite](https://en.wikipedia.org/wiki/Adobe_Creative_Suite), [Autodesk Maya](https://www.autodesk.com/sg/products/maya/overview) and [Blender](https://www.blender.org/). Ah, the ***Flash*** of nostalgia. Together with PHP and HTML+CSS+JS.
+
+##### Then I did a [mid-career switch](https://www.digipen.edu.sg/showcase/news/from-web-administrator-to-embedded-software-engineer) and learnt embedded development
+
+I learnt C/C++, RTOS, and worked on embedded systems using [mBed OS](https://os.mbed.com/mbed-os/). Working with communication protocols like ModBus, Bluetooth and WiFi. In the mean time I also learnt a bit of machine learning using Python, Jupyter and Tableau. And doubled as a scrum master for a year.
+
+##### After 3 years in embedded, I was posted to work on a full stack project
+
+Getting my hands into [Next.js](https://nextjs.org/), TypeScript, ReactJs, ExpressJs and even some Unity. Tasked with UI/UX as well, I picked up [Figma](https://www.figma.com/) and [ExcaliDraw](https://excalidraw.com/) for ideation and planning. And for the rest of the stack, I skimmed off the top of Redis, Docker, Azure, Kubernetes and Keycloak.
+
+##### On the side, through the years
+
+I also took on courses with providers like [GovTech Digital Academy](https://www.thedigitalacademy.tech.gov.sg/), [Secure Code Warrior](https://www.securecodewarrior.com/), [NUS-ISS](https://www.iss.nus.edu.sg/), [NTU ACE](https://www.ntu.edu.sg/business/ugadmission/undergraduate-programmes/nbs-academy-for-career-excellence) and [SANS Institute](https://www.sans.org/). With them, I learnt more in depth on things like OOP (using Java), System Architecting, Agile Project Management using Scrum and Web App Penetration Testing.
+
+##### When I end my day
+
+I enjoy playing video games, board games, reading, and occasionally, exploring the real world. Occasionally, I also come back to this site and fill it with things I've learnt in the wild wild web.
