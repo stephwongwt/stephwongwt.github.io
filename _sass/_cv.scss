@@ -90,6 +90,18 @@ div.container-pdf {
 }
 
 /*****************************
+ * CV SUB_LIST styles
+ *****************************/
+
+.sub-list > .sub-list-item {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-style: normal;
+}
+
+/*****************************
  * CV LIST_GROUPS styles
  *****************************/
 

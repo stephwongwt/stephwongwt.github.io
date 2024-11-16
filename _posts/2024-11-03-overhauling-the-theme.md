@@ -4,11 +4,10 @@ description: Upgraded to al-folio theme with some customizations
 date: 2024-11-03T15:08:24.534Z
 preview: ""
 tags:
-  - site-update
-categories:
   - jekyll
+categories:
+  - site-update
 layout: post
-featured: true
 slug: overhauling-theme
 ---
 

@@ -3,9 +3,9 @@ layout: post
 title: Site Launch!
 date: 2016-10-23
 tags:
-  - site-update
-categories:
   - jekyll
+categories:
+  - site-update
 slug: site-launch
 description: Launched a blog on github pages
 ---

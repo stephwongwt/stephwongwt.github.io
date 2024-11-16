@@ -3,9 +3,9 @@ layout: post
 title: Domain name added, revival after 8 years
 date: 2024-08-03
 tags:
-  - site-update
-categories:
   - jekyll
+categories:
+  - site-update
 slug: domain-added-revival-8-years
 description: Finally added a domain name, and revived the blog after 8 years.
 ---

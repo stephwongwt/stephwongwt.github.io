@@ -74,5 +74,6 @@
     }
   ],
   "frontMatter.git.enabled": true,
-  "frontMatter.content.snippets": {}
+  "frontMatter.content.snippets": {},
+  "frontMatter.framework.startCommand": "bundle exec jekyll serve --force_polling --livereload"
 }

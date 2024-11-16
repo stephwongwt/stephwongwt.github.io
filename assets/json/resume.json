@@ -29,7 +29,7 @@
       "url": "",
       "startDate": "2011-04-01",
       "endDate": "2011-07-01",
-      "summary": "As a fresh graduate, I joined a wedding card printing company for a short time before I was invited by my former lecturer to take up a tech assistant position with Republic Poly. For the few months that I was here, I worked with Adobe Photoshop and Illustrator to create wedding card designs according to customer's customization requests.",
+      "summary": "<ul class=\"sub-list\"><li class=\"sub-list-item\">Create card designs using Adobe Illustrator</li><li class=\"sub-list-item\">Basic photo editing with Adobe Photoshop</li></ul>",
       "highlights": []
     },
     {
@@ -38,7 +38,7 @@
       "url": "https://www.rp.edu.sg",
       "startDate": "2011-07-01",
       "endDate": "2013-07-01",
-      "summary": "This is an alumni-only research position, and I was hired to assist lecturers with their research projects.<br /><br />My main project was a health tracker project, which I assisted in creating prototype hardware using Arduino and multiple sensor modules such as a gyroscope, an accelerometer and a thermometer. I then used Processing to program the board to collect data, together with a Bluetooth module to send out data packets to a paired mobile device which will then transmit data via GPRS to a server which serves a web dashboard so that caregivers can monitor the condition of a patient. After using breadboards to create proof-of-concepts, I soldered them together to create a working prototype which was used in our project exhibitions.<br /><br />Afterwards, I worked on a project for to create a real time logistics web tracker, I helped to develop some of the web interface using HTML, CSS, jQuery and MySQL. During that time we used AJAX and Web Sockets to achieve real time updates on the dashbaord.<br /><br />Another project I was involved in was to create a virtual campus tour created using Unity. I oversaw creating the 3D environment in Unity, importing BIM data and applied matching textures to those models. The application was then paired with an Xbox Kinect camera to allow the user to interact and navigate within the virtual campus",
+      "summary": "<ul class=\"sub-list\"><li class=\"sub-list-item\">Assisted lecturers with research projects in an alumni-only research position.</li><li class=\"sub-list-item\">Developed a health tracker prototype using Arduino, with gyroscope, accelerometer and thermometer sensors, together with Bluetooth for data transmission to a gateway and web dashboard for caregiver monitoring.</li><li class=\"sub-list-item\">Created proof-of-concept hardware with breadboards and soldered working prototypes for exhibitions.</li><li class=\"sub-list-item\">Contributed to a real-time logistics web tracker by developing the web interface using HTML, CSS, jQuery, MySQL, AJAX, and WebSockets for live updates.</li><li class=\"sub-list-item\">Designed a virtual campus tour in Unity, importing BIM data, applying textures, and enabling user interaction with an Xbox Kinect camera.</li></ul>",
       "highlights": []
     },
     {
@@ -47,7 +47,7 @@
       "url": "",
       "startDate": "2013-07-01",
       "endDate": "2014-08-01",
-      "summary": "During this period, I took a chance to try out a different career path in the service line. I was a bartender and doubled as a runner, providing quality customer service, managing point-of-sale and general stock take of the restaurant. Ultimately this was not for me and so I returned to tech.",
+      "summary": "<ul class=\"sub-list\"><li class=\"sub-list-item\">Took a gap year to explore other careers</li><li class=\"sub-list-item\">Create customized drinks for customers</li><li class=\"sub-list-item\">Provided quality customer service and managed point-of-sale systems.</li><li class=\"sub-list-item\">Handled general stock-taking responsibilities for the restaurant.</li><li class=\"sub-list-item\">Decided to return to the tech industry after realizing it was a better fit.</li></ul>",
       "highlights": []
     },
     {
@@ -56,7 +56,7 @@
       "url": "https://incinemas.sg/",
       "startDate": "2015-01-01",
       "endDate": "2016-10-01",
-      "summary": "I was hired as a Frontend Web Developer, tasked to create web designs based on requirements from clients and to create HTML prototypes for preview before we integrate with Wordpress CMS. After integration, I would help to perform integration checks to ensure the website is bug-free. I also created an inventory management web app using PHP and MySQL.<br /><br />As I would occasionally help the company with digital ads, video editing, flash animations and miscellaneous IT support, my role eventually evolved into a Multimedia developer role.<br /><br />At start of 2016, the company wanted to overhaul their old website, and develop a matching native mobile application to serve their entertainment content. I took up the <a href=\"https://incinemas.sg/article-details.aspx?id=2297\">iOS app</a>, while another colleague took up the Android app, both of us did not have any prior experiences on mobile app development. Together with two experienced UI/UX designers, we brainstormed for UI/UX ideas, creating iterations of designs before we started creating the applications. In the end, this team of 4 took 10 months to research and fully develop the two mobile applications and overhauled the website.",
+      "summary": "<ul class=\"sub-list\"><li class=\"sub-list-item\">Hired as a Frontend Web Developer to design and create HTML prototypes based on client requirements before integrating with WordPress CMS.</li><li class=\"sub-list-item\">Performed integration checks to ensure websites were bug-free post-CMS integration.</li><li class=\"sub-list-item\">Developed an inventory management web application using PHP and MySQL.</li><li class=\"sub-list-item\">Assisted with digital ads, video editing, Flash animations, and IT support, evolving the role into a Multimedia Developer position.</li><li class=\"sub-list-item\">Led the iOS app development for the company’s entertainment content platform during a website overhaul, collaborating with a team of four to design and develop the app despite no prior mobile development experience.</li><li class=\"sub-list-item\">Worked with two UI/UX designers to brainstorm and iterate on app and website designs, successfully completing the project in 10 months.</li></ul>",
       "highlights": []
     },
     {
@@ -65,7 +65,7 @@
       "url": "https://www.mindef.gov.sg/",
       "startDate": "2017-05-01",
       "endDate": "2019-05-01",
-      "summary": "My main responsibility was to manage MINDEF’s websites and its various sub-sites, ensuring that authorized content are timely uploaded. I also help to maintain static webpages for sub sites that have yet to migrate to the CMS, debugging the issues on the frontend (HTML/JavaScript/CSS) or the integration between the frontend and backend (IBM Web Content Manager).<br /><br />Aside from handling MINDEF's website, my secondary role as a technical consultant assess how ready the organization was for migration.<br /><br /> And in 2018, I was tasked to consult in a web development project that lacked velocity. I took the initiative to transition into a product manager role to we managed to get the project back on track and concluded by 2019.",
+      "summary": "<ul class=\"sub-list\"><li class=\"sub-list-item\">Managed website, ensuring timely uploads of authorized content.</li><li class=\"sub-list-item\">Maintained static webpages for sub-sites pending migration to the CMS.</li><li class=\"sub-list-item\">Debugged integration across frontend (HTML/JavaScript/CSS) and backend (IBM Web Content Manager).</li><li class=\"sub-list-item\">Took initiative to transition from consultant to product manager for a stalled web project.</li><li class=\"sub-list-item\">Managed the project across multiple vendors and integrated with Adobe Experience Manager & Analytics.</li><li class=\"sub-list-item\">Successfully brought the project live by Q1 2019 as scheduled.</li></ul>",
       "highlights": []
     },
     {
@@ -74,7 +74,7 @@
       "url": "https://www.tech.gov.sg",
       "startDate": "2019-11-01",
       "endDate": "2022-12-01",
-      "summary": "I started off as an intern after the Professional Conversion Program from DigiPen, during which I worked on creating a proof-of-concept for a WiFi version of the <a href=\"https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/overview.html\">Personal Alert Button</a>, eventually as the project concluded, I was converted to full-time.<br /><br />After the conversion, I started working on a smart garden project and as part of the project, we worked on retrofitting lamp posts with IoT-capable nodes. I was responsible for software architecture & development and worked with hardware engineers to develop custom PCB boards with STM32L and STM32F microcontrollers. We mainly use C/C++ with Mbed OS for quick prototyping. After a year, during the deployment and maintenance phase, the project lead left and so I took over the role and continued to oversee the deployment of those nodes on site.",
+      "summary": "<ul class=\"sub-list\"><li class=\"sub-list-item\">Worked on a smart garden project, retrofitting lamp posts with IoT-capable nodes.</li><li class=\"sub-list-item\">Designed software architecture for the end nodes, using Modbus protocols for communication.</li><li class=\"sub-list-item\">Hand soldered components and created prototypes using STM32 Nucleo boards.</li><li class=\"sub-list-item\">Collaborated with hardware engineers to create custom PCB boards using STM32L and STM32F microcontrollers.</li><li class=\"sub-list-item\">Utilized Mbed OS for rapid prototyping, building firmware in C/C++.</li><li class=\"sub-list-item\">Assumed project lead role, overseeing development, deployment, and maintenance of the devices.</li></ul>",
       "highlights": []
     },
     {
@@ -83,7 +83,7 @@
       "url": "https://www.tech.gov.sg",
       "startDate": "2023-01-01",
       "endDate": "",
-      "summary": "After the conclusion of the previous project in GovTech, I transitioned into a Systems engineer, and began working on a project to build an asset management system in the <a href=\"https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html\">Open Digital Platform</a> team. In this project, my role was more focused on frontend and some backend.<br /><br />A teammate and I explored the designs of the application using pen & paper wireframes and ExcaliDraw, basing the design on an existing UI/UX framework created in Figma by other project teams.<br /><br />We used Mantine's components to get started quickly on UI/UX, and developed the rest of the stack with ReactJS, Next.js, NGINX, Express.js, and Redis for caching. As we were already familiar with type-safety, we chose to use TypeScript instead of JavaScript. And after the basics of the app has been set up, we also integrated with Keycloak for OAuth2 authentication and role based access.<br /><br />The application was to be deployed in an Azure managed Kubernetes cluster, so after the infra team has everything set up, I worked on dockerizing our applications and then deploying them to the cluster.<br /><br />The main feature of the application is to allow users to manage their assets remotely, so we implemented real-time updates between the frontend and backend, with the backend connected to other services via AMQP and Protobuf.<br /><br />Aside from the app, I also helped build new features for a Unity based digital twin used for managing assets, and embedded the app in Unity as part of a complete dashboard.<br /><br />During the deployment of the dashboard, I also worked on UAT planning, and managing the test cycles with the end users, as well as working with our VAPT vendor to resolve any vulnerabilities that arise, following OWASP and any other internal security requirements.",
+      "summary": "<ul class=\"sub-list\"><li class=\"sub-list-item\">Designed system architecture for frontend dashboards and backend services.</li><li class=\"sub-list-item\">Developed fullstack dashboards using Next.js (frontend) and Express.js (backend).</li><li class=\"sub-list-item\">Built UI/UX with Mantine components and custom icons designed in Figma.</li><li class=\"sub-list-item\">Implemented Redis for caching and fast in-memory JSON data access.</li><li class=\"sub-list-item\">Integrated Keycloak for OAuth2 authentication and role-based access control.</li><li class=\"sub-list-item\">Containerized applications with Docker/Podman and deployed to Azure Kubernetes.</li><li class=\"sub-list-item\">Enabled real-time communication with RabbitMQ using AMQP and Protobuf.</li><li class=\"sub-list-item\">Added features to Unity-based digital twin for physical asset management.</li><li class=\"sub-list-item\">Authored UAT documentation, test cases, and conducted user workshops.</li><li class=\"sub-list-item\">Addressed vulnerabilities via VAPT participation and resolution efforts.</li><li class=\"sub-list-item\">Led coding standardization, documentation improvements, and DevOps enhancements.</li><li class=\"sub-list-item\">Led frontend team and mentored junior developers.</li></ul>",
       "highlights": []
     }
   ],
@@ -120,20 +120,20 @@
       "startDate": "2019-05-01",
       "endDate": "2020-02-01",
       "score": "",
-      "courses": ["RTOS", "Electronic Engineering", "C/C++"]
+      "courses": ["RTOS", "Electronic Engineering", "C/C++", "Calculus", "Algorithms"]
     }
   ],
   "awards": [],
   "certificates": [
     {
-      "name": "Completion: Statistics Foundations: The Basics",
+      "name": "Statistics Foundations: The Basics",
       "date": "2021-11-01",
       "issuer": "LinkedIn Learning",
       "url": "https://www.linkedin.com/learning/statistics-foundations-1-the-basics",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Completion: Object Oriented Design and Programming",
+      "name": "Specialist Certificate: Object Oriented Design and Programming",
       "date": "2022-05-06",
       "issuer": "National Technological University, Singapore",
       "url": "https://www.ntu.edu.sg/",
@@ -147,7 +147,21 @@
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Completion: SEC542: Web App Penetration Testing and Ethical Hacking",
+      "name": "Data Champion Bootcamp",
+      "date": "2023-11-17",
+      "issuer": "Government Technology Agency, Singapore",
+      "url": "https://badgr.com/public/assertions/_qCQ35WBT46bC3oU-UNuYA",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Evaluating Software Architecture",
+      "date": "2024-02-02",
+      "issuer": "NUS-ISS, Singapore",
+      "url": "https://credentials.nus.edu.sg/87614046-78b1-4ce8-9031-ea1d53da15da",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "SEC542: Web App Penetration Testing and Ethical Hacking",
       "date": "2024-08-31",
       "issuer": "The SANS Institute",
       "url": "https://www.sans.org/cyber-security-courses/web-app-penetration-testing-ethical-hacking/",

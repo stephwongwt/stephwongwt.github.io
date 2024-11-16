@@ -4,13 +4,12 @@ description: Getting into gear on editing the blog in vscode and managing the co
 date: 2024-10-11T15:33:11.940Z
 preview: ""
 tags:
-  - site-update
-categories:
   - jekyll
   - vscode
+categories:
+  - site-update
 slug: front-matter-cms-code
 layout: post
-featured: true
 ---
 
 I originally wanted to go through some of my old github repos today to start writing up on them. But I realized I would prefer to have a proper set up in an editor so that I can maintain a proper structure. So after a some searching, I found [FrontMatter](https://frontmatter.codes/)!
