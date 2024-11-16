@@ -16,7 +16,9 @@ I will be using this site to keep a blog of all the things I've learnt on the wa
 
 ## Start local development
 
-Use `bundle exec jekyll serve --force_polling --livereload` to start with live reload.
+First run `bundle install` to ensure packages are up to date.
+
+Then use `bundle exec jekyll serve --force_polling --livereload` to start with live reload.
 
 ## Credits
 
